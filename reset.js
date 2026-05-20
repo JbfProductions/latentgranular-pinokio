@@ -3,6 +3,12 @@ module.exports = {
     {
       method: "fs.rm",
       params: {
+        path: "app"
+      }
+    },
+    {
+      method: "fs.rm",
+      params: {
         path: "env"
       }
     }

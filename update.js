@@ -12,7 +12,7 @@ module.exports = {
       params: {
         venv: "env",
         path: "app",
-        message: "pip install -U -r requirements.txt"
+        message: "pip install -r requirements.txt"
       }
     }
   ]
